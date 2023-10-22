@@ -1,9 +1,10 @@
 #include <stdio.h>
 /**
  * main - This program prints the size of various types
- * return 0 (Success)
+ *
+ * return: always (0)
+ *
  */
-
 int main(void)
 {
 	char z;
