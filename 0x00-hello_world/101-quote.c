@@ -3,7 +3,7 @@
 /**
 * main - This Program Prints a line
 *
-* Return 1 means (Success)
+*Return 1 means (Success)
 */
 int main(void)
 {
